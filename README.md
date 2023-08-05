@@ -27,4 +27,8 @@ Also, there are solutions for SQL tasks. All DML-related tasks were implemented 
 ### Task 4
 - Convert given policies and claims Excel datasets to related T-SQL tables in MS SQL Server. 
 
+## Results of Power BI tasks
+### Portfolio dashboard
+![plot](./policy-claims-data-analytics\PowerBIResults.png)
+
 
