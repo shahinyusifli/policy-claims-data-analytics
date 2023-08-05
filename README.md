@@ -30,15 +30,15 @@ Also, there are solutions for SQL tasks. All DML-related tasks were implemented 
 ## Results of Power BI tasks
 ### Portfolio dashboard
 The Product Manager can describe the overall situation of the portfolio with a Card that contains the Profit calculated measure. As you imagine, the Total number of premiums (Sales) and Payments to customers (Total incurred amount of payment needed claims) are the two main parts of calculations of Profit both of them shown in this dashboard via Cards. Also, we have some calculated measures about the total number of renewals and cancel rate that has an effect to profit in general. In the first step, the Product Manager can understand the situation with the color of the value in Profit Card. In the second step, he or she can look at Cards that contain profit-related calculated measures to understand the reason for the problem or improvement. This process relies on the "Color takes your attention, numbers give you details" principle. On the other hand, the Product Manager can easily detect the source of the problem or improvement with a Heat Map and Dount Chart. This Dashboard meets the requriemnts of Task 1 and Task 2 of Power BI tasks.
-
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/Portfolio.png)
 
-In this dashboard, the Product Manager can understand the difference affects of payment needed and non-payment needed claims over a total number of claims. This dashboard was designed to help product managers easily understand payment needed claims versus non-payment needed claims.
+
 ### Introduction of claims dashboard
+In this dashboard, the Product Manager can understand the difference affects of payment needed and non-payment needed claims over a total number of claims. This dashboard was designed to help product managers easily understand payment needed claims versus non-payment needed claims.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/IntroductionOfClaims.png)
 
-Product Managers can easily understand observed trends. All of the noticeable trends belong to payment needed claims with vehicle age, vehicle first registration, engine type, and property status of the car. Mentioned dashboard was created according to Task 3 in Power BI tasks.
 ### Trends in claims dashboard
+Product Managers can easily understand observed trends. All of the noticeable trends belong to payment needed claims with vehicle age, vehicle first registration, engine type, and property status of the car. Mentioned dashboard was created according to Task 3 in Power BI tasks.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/TrendsInClaims.png)
 
 
