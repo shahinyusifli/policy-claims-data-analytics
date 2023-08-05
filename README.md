@@ -38,16 +38,19 @@ In this dashboard, the Product Manager can understand the difference affects of 
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/IntroductionOfClaims.png)
 
 ### Trends in claims dashboard
-Product Managers can easily understand observed trends. All of the noticeable trends belong to payment needed claims with vehicle age, vehicle first registration, engine type, and property status of the car. Mentioned dashboard was created according to Task 3 in Power BI tasks.
+Product Managers can easily understand observed trends. All of the noticeable trends belong to payment needed claims with vehicle age, vehicle first registration, engine type, and property status of the car. Mentioned dashboard was created according to Task 4 in Power BI tasks.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/TrendsInClaims.png)
 
 
 ### Trends in sales dashboard
+Some trends can be noticed by Product Manager. Most of trends consist of different Calculated Measures of Premiums (Sales) over car mark, vehicle age, year, and property status. Pareto principle and Forecasting were implemented in this dashboard which can trends more noticeable to the Product manager. The mentioned dashboard was designed and created according to the requriemnts of Task 3 which can be found in Power BI tasks.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/TrendsInSales.png)
 
 ### Motor product profitability dashboard
+There are some actions for changing pricing/policy according to trends in sales but these actions should be taken based on represented data. Mentioned data representation can be found in this dashboard. All possible changes were targeted by engine type of cars over premiums (Sales), payments to the customer, and renewal identical. All analyses are created according to Task 5.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/MotorProductProfitability.png)
 
 ### Calculated measures
+There are 32 calculated measures created for meeting the requriments of tasks. Some calculated measures calculate a given value by comparing the previus and current year or some of them calculate over another value. Also, there are some calculated measures for type casting, aggregation operations, and implementing the Pareto principle. I have implemented error handling to some calculated measures. All calculated measures are created by using DAX formulas and can be analyzed by opening the given .pbix file.
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/CalculatedMeasures.png)
 
