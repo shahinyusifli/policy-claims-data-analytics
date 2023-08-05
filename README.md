@@ -29,6 +29,6 @@ Also, there are solutions for SQL tasks. All DML-related tasks were implemented 
 
 ## Results of Power BI tasks
 ### Portfolio dashboard
-![plot](./policy-claims-data-analytics\PowerBIResults.png)
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/Portfolio.png)
 
 
