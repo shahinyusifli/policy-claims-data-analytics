@@ -31,4 +31,15 @@ Also, there are solutions for SQL tasks. All DML-related tasks were implemented 
 ### Portfolio dashboard
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/Portfolio.png)
 
+### Introduction of claims dashboard
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/IntroductionOfClaims.png)
+
+### Trends in claims dashboard
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/TrendsInClaims.png)
+
+### Trends in sales dashboard
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/TrendsInSales.png)
+
+### Motor product profitability dashboard
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/MotorProductProfitability.png)
 
