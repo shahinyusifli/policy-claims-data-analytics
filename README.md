@@ -43,3 +43,6 @@ Also, there are solutions for SQL tasks. All DML-related tasks were implemented 
 ### Motor product profitability dashboard
 ![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/MotorProductProfitability.png)
 
+### Calculated measures
+![plot](https://github.com/shahinyusifli/policy-claims-data-analytics/blob/main/PowerBIResults/CalculatedMeasures.png)
+
